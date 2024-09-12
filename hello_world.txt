@@ -1,0 +1,2 @@
+Hello, world! This is my first doing project in the Odin curriculam. 
+I am super excited to be a developer.
